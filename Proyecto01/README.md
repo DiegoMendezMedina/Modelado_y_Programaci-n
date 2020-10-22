@@ -1,8 +1,9 @@
 Done by [José Luis Onofre Franco](https://github.com/luis3u) and [Diego Méndez Medina](https://github.com/DiegoMendezMedina)
+
 First, it's needed to add the OpenWeather as an enviroment variable to be able to execute the requests properly.
 
 ```shell
-export OPENWEATHER='c1505749502e2b1373f897f4aed74c6c'
+export OPENWEATHER= YOUR_KEY
 ```
 
 Now, you can execute the program with the following command:
