@@ -1,4 +1,4 @@
-Done by [José Luis Onofre Franco]https://github.com/luis3u) and [Diego Méndez Medina](https://github.com/DiegoMendezMedina)
+Done by [José Luis Onofre Franco](https://github.com/luis3u) and [Diego Méndez Medina](https://github.com/DiegoMendezMedina)
 First, it's needed to add the OpenWeather as an enviroment variable to be able to execute the requests properly.
 
 ```shell
